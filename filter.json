@@ -1,0 +1,11 @@
+{
+  "and": {
+    "propella": {
+      "content_integrity": ["complete", "mostly_complete", "fragment"],
+      "content_quality": ["excellent", "good", "adequate", "poor"],
+      "content_safety": ["safe", "mild_concerns", "nsfw"],
+      "content_ratio": ["complete_content","mostly_content","mixed_content","mostly_navigation"],
+      "information_density": ["dense","adequate","moderate","thin"]
+    }
+  }
+}
